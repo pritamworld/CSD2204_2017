@@ -1,0 +1,6 @@
+CREATE TABLE student(
+	sid INT(5),
+	snm VARCHAR(25),
+	gender VARCHAR(10),
+	age INT(3)
+	);
