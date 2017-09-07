@@ -1,3 +1,5 @@
+Smaple database creation
+
 CREATE TABLE student(
 	sid INT(5),
 	snm VARCHAR(25),
